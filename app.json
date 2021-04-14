@@ -1,0 +1,17 @@
+{
+  "name": "webtube",
+  "description": "A simple software framework to play youtube video songs.",
+  "repository": "https://github.com/youtube-py/webtube",
+  "keywords": [
+    "youtube",
+    "youtube music",
+    "music"
+  ],
+
+  "image": "heroku/python",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

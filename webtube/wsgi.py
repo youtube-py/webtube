@@ -1,0 +1,1 @@
+from webtube.app import app as application
