@@ -168,3 +168,10 @@ let ask;
 	})
 	
 })()
+
+
+document.onkeyup = (key) => {
+	if (key.keyCode == 32){
+		playBtn.click();
+	}
+};
