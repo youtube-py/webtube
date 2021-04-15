@@ -1,3 +1,6 @@
 run="python -m webtube"
 language="python3"
 onBoot="echo Booting up!"
+
+[packager]
+ignoredPackages=["youtube"]
