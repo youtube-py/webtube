@@ -3,10 +3,10 @@
 
 ## Heroku
 <a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" width="200">
 </a>
 
 ## Repl.it
 <a href="https://repl.it/github/youtube-py/webtube">
-  <img src="https://repl.it/badge/github/youtube-py/webtube" alt="Deploy">
+  <img src="https://repl.it/badge/github/youtube-py/webtube" alt="Deploy" width="200">
 </a>
