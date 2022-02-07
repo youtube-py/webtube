@@ -14,7 +14,7 @@ pipenv==2021.5.29
 requests==2.25.1
 six==1.16.0
 urllib3==1.26.4
-virtualenv==20.4.7
+virtualenv==20.13.1
 virtualenv-clone==0.5.4
 Werkzeug==1.0.1
 youtube.py==2.1.0
